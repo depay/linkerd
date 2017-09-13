@@ -8,7 +8,6 @@ import com.google.local.DurationProto.{Duration => GDuration}
 import com.twitter.util.Duration
 import io.buoyant.k8s.istio._
 import istio.mixer.v1._
-
 import scala.io.Source
 
 object MixerApiRequests {
